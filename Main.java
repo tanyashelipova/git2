@@ -29,7 +29,7 @@ class Main {
         return sum;
     }
     public static int multiplication(int a, int b) {
-        int sum = a * 2;
+        int sum = a * b;
         return sum;
     }
 }
